@@ -4,15 +4,16 @@
 
 ## 🔭 Current Projects:
 
-1. Moodroom - Being  INFJ love showing feeling even in coding
-2. SeoulScript - Huge Drama fan (Highly recommend checking out "Welcome to Waikiki")
-3. DevSphere - Trying to develop a useful cloud based tool to improve workflows and productivity🏢
-   & Many More ...
+ 1. Moodroom - Being an INFJ, I love showing my feelings even in coding.
+ 2. SeoulScript - I'm a huge drama fan. (I highly recommend checking out "Welcome to Waikiki"; it's an absolute comedy that will completely hook you!)
+ 3. DevSphere - I'm trying to develop a useful, cloud-based tool to improve workflows and productivity.🏢
+    
+      & Many More ...
 
  ## 🌱 Learning and growing:
  Focusing on python to better improve my skills in AI related development and projects✨
 
-###📫 Feel free to contact me via LinkedIn or my Website.
+### 📫 Feel free to contact me via LinkedIn or my Website.
 ### Looking for any oportunities to grow and help out. THX!
  
 
