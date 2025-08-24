@@ -13,6 +13,29 @@
  ## 🌱 Learning and growing:
  Focusing on python to better improve my skills in AI related development and projects✨
 
+### My Skill Tree
+
+```plaintext
+ Languages
+ ├── 🐍 Python
+ │   └── Frameworks: FastAPI
+ │
+ ├── ☕ Java
+ │   ├── Concepts: Object-Oriented Programming (OOP)
+ │   └── Learning: SpringBoot
+ │
+ └── 📜 JavaScript / TypeScript
+     ├── Frontend: React, Next.js, Three.js
+     └── Backend: Node.js, Express
+ 
+ Databases
+ └── 🍃 MongoDB
+ 
+ DevOps & Operating Systems
+ ├── 🐳 Containers: Docker
+ └── 🐧 OS & Virtualization: Linux, VMs, WSL
+```
+
 ### 📫 Feel free to contact me via LinkedIn or my Website.
 ### Looking for any oportunities to grow and help out. THX!
  
