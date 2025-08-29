@@ -30,14 +30,17 @@
  
  Databases
  └── 🍃 MongoDB
- 
+
+ Cloud
+ └── AWS: EC2
+
  DevOps & Operating Systems
  ├── 🐳 Containers: Docker
  └── 🐧 OS & Virtualization: Linux, VMs, WSL
 ```
 
 ### 📫 Feel free to contact me via LinkedIn or my Website.
-### Looking for any oportunities to grow and help out. THX!
+### Looking for any opportunities to grow and help out. THX!
  
 
 <!--
